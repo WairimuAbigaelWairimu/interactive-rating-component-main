@@ -1,0 +1,104 @@
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    border: none;
+    outline: none;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #000;
+}
+.rate-card{
+    background-color: #3a3c40;
+    color: #E1D9D1;
+    margin: 0 auto;
+    margin-top: 5em;
+    padding: 1.5em;
+    width: 25%;
+    border-radius: 25px;
+}
+h3{
+    color: #fff;
+}
+span{
+    line-height: 3em;
+    margin: .5em;
+   padding: .75em; 
+   border-radius: 50%;
+   text-wrap: nowrap;
+   background-color: grey;
+}
+span:hover{
+    background-color:  #fb7413;
+}
+button{
+    margin-top: 2.5em;
+    background-color:  #fb7413;
+    width: 100%;
+    border-radius: 25px;
+    border: none;
+    outline: none;
+    color: #E1D9D1;
+    text-transform: uppercase;
+    padding: .55em;
+}
+button:hover{
+    background-color: #fff;
+    color: #fb7413;
+}
+.rate-card svg{
+    border-radius: 50%;
+    padding: .75em;
+    background-color: grey;
+}
+
+
+
+
+
+
+
+.thankyou-card{
+    text-align: center;
+}
+.thankyou-card svg{
+   border-radius: 0em;
+    padding: .75em;
+    background-color: transparent;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   .attribution { font-size: 11px; text-align: center; }
+   .attribution a { color: hsl(228, 45%, 44%); }
+   .attribution{
+       display: none;
+   }
